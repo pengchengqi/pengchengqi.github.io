@@ -4,7 +4,10 @@
 <script>
 export default {
     data(){
-        tet:'123'
+        return{
+            tet:'123',
+            old:'asd'
+        }
     }
 }
 </script>
