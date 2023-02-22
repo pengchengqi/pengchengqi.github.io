@@ -6,7 +6,8 @@ export default {
     data(){
         return{
             tet:'123',
-            old:'asd'
+            shanchuold:'asd',
+            new:'asd'
         }
     }
 }
