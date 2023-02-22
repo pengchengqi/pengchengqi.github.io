@@ -1,5 +1,5 @@
 <template>
-  <div>{{ tetes }}</div>
+  <div>{{ new1 }}</div>
 </template>
 <script>
 export default {
