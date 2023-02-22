@@ -1,13 +1,14 @@
 <template>
-    <div>{{ tetes }}</div>
+  <div>{{ tetes }}</div>
 </template>
 <script>
 export default {
-    data(){
-        return{
-        tetes:'123',
-        asd:'123'
-    }
-    }
-}
+  data() {
+    return {
+      tet: "123",
+      asd: "123",
+      new: "asd",
+    };
+  },
+};
 </script>
