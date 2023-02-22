@@ -5,6 +5,7 @@
 export default {
   data() {
     return {
+      asdasdasdasdasd:'asdsad',
       tetssss: "123",
       asd: "123",
       new: "asd",
