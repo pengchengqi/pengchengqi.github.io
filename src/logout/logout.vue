@@ -5,7 +5,7 @@
 export default {
   data() {
     return {
-      tet: "123",
+      tetsss: "123",
       asd: "123",
       new: "asd",
     };
