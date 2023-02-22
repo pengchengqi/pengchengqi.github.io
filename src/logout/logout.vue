@@ -5,7 +5,7 @@
 export default {
   data() {
     return {
-      masterxiugai: "123",
+      tet: "123",
       asd: "123",
       new: "asd",
     };
